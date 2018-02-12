@@ -1,0 +1,58 @@
+
+
+
+                         SEMEVAL-1 
+                         ---------
+
+TASK 17: English Lexical Sample, English SRL and English All-Words
+------------------------------------------------------------------
+
+
+
+The trial data packages contains two files:
+
+
+LEXICAL SAMPLE FILE: 
+-------------------
+
+filename: English.lex-sample.txt
+--------
+
+The format of this file is quite similar to the earlier semeval
+lexical-sample formats.  The one main change in this version is that
+the answer element now has attributes "on", "wn" and "wn-version"
+which respectively represent the ontonotes sense id, the group of
+wordnet senses that it corresponds to, and the version of wordnet that
+was used to perform the manual grouping.  following shows an example
+from the traial data file.
+
+<lexelt item=construct.v> 
+
+<instance id="15:0@0@wsj/11/wsj_1126@wsj" corpus="wsj">
+<answer lemma="construct" pos="v" on="1" wn="1,2,4,5" wn-version="2.1"/>
+Sheraton Corp. and Pan American World Airways announced that they and two Soviet partners will <head> construct </head> two `` world-class '' hotels within a mile of Red Square in Moscow . U.S. and Soviet officials hailed the joint project as a new indication of the further thaw in U.S.-Soviet relations . `` This is an outstanding example of how the East and the West can work together for their mutual benefit and progress , '' said *T*-2 Soviet Ambassador Yuri Dubinin , who *T*-1 hosted a signing ceremony for the venture 's partners at the Soviet embassy here .
+</instance>
+
+
+
+SEMANTIC ROLES FILE:
+-------------------
+
+files: srl/*
+-----
+
+These files have a format very similar to the CoNLL 2005 shared task files. t
+The only difference is that there are no Clause-based, Chunk-based, features
+or Collins' parse.  It contains a split version of Charniak parse and the POS
+extracted from the same.  In addition, this format has a id for each example
+represented by the wsj document number, sentence number and predicate index.
+The columns represent respectively the following:
+
+column 1: id
+column 2: word
+column 3: verbnet class
+column 4: propbank sense
+column 5: part of speech (extracted from Charniak parse)
+column 6: Charniak parse tokens
+column 7: Propbank Propositions
+column 8: Mapped Thematic Roles

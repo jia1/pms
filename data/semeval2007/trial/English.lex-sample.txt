@@ -1,0 +1,323 @@
+<?xml version="1.0"?>
+<!DOCTYPE corpus SYSTEM  "lex-sample.dtd"> <corpus lang="en">
+
+<lexelt item=construct.v> 
+
+<instance id="15:0@0@wsj/11/wsj_1126@wsj" corpus="wsj">
+<answer lemma="construct" pos="v" on="1" wn="1,2,4,5" wn-version="2.1"/>
+Sheraton Corp. and Pan American World Airways announced that they and two Soviet partners will <head> construct </head> two `` world-class '' hotels within a mile of Red Square in Moscow . U.S. and Soviet officials hailed the joint project as a new indication of the further thaw in U.S.-Soviet relations . `` This is an outstanding example of how the East and the West can work together for their mutual benefit and progress , '' said *T*-2 Soviet Ambassador Yuri Dubinin , who *T*-1 hosted a signing ceremony for the venture 's partners at the Soviet embassy here .
+</instance>
+
+<instance id="18:0@10@wsj/11/wsj_1126@wsj" corpus="wsj">
+<answer lemma="construct" pos="v" on="1" wn="1,2,4,5" wn-version="2.1"/>
+It will have a Russian tavern , an English pub , a discotheque and Japanese and Italian restaurants , according to a Sheraton announcement . The hotel is scheduled *-1 to open in 1992 . The second hotel , 0 *T*-3 to be called *-1 the Budapest Hotel , is *-4 to be <head> constructed </head> *-2 at a site even closer to Red Square . Details about its size and cost have n't yet been determined *-1 . Sheraton , a subsidiary of ITT Corp. , will have a 40 % share in the two hotels ; Pan American , a subsidiary of Pan Am Corp. , will have a 10 % share .
+</instance>
+
+<instance id="5:0@3@wsj/10/wsj_1081@wsj" corpus="wsj">
+<answer lemma="construct" pos="v" on="1" wn="1,2,4,5" wn-version="2.1"/>
+Jacobs is an international engineering and construction concern . Total capital investment at the site could be as much as $ 400 million *U* , according to Intel . The 150,000-square-foot plant will be <head> constructed </head> *-1 on a 55-acre site near Dublin . Jacobs Engineering officials could n't be reached *-1 for comment .
+</instance>
+
+<instance id="11:0@1@wsj/23/wsj_2346@wsj" corpus="wsj">
+<answer lemma="construct" pos="v" on="1" wn="1,2,4,5" wn-version="2.1"/>
+The real estate slump that *T*-1 's pushing down the price of New York office space and housing is also affecting the city 's retail real estate market . In Manhattan , once-desirable store sites sit *-2 vacant and newly <head> constructed </head> space has been slow *-1 to fill . Retail real estate brokers say 0 tenants are reluctant *-1 to sign leases because of uncertainty about the local economy , turmoil in their own industries and a belief that rents have not yet hit bottom . `` There is an unbelievable amount of space available , '' says *T*-2 Faith Consolo , senior vice president at Garrick-Aug Associates Store Leasing Inc .
+</instance>
+
+</lexelt>
+
+<lexelt item=double.v> 
+
+<instance id="6:0@3@wsj/13/wsj_1351@wsj" corpus="wsj">
+<answer lemma="double" pos="v" on="1" wn="1" wn-version="2.1"/>
+Amtech , which *T*-1 makes an automated process system that *T*-2 improves the yields of semiconductor manufacturers , said 0 profit for the year ended * Sept. 30 rose to more than $ 800,000 *U* from $ 446,000 *U* last year . Per-share earnings are estimated *-1 at more than 40 cents , up from 22 cents for fiscal 1988 . Total revenue is expected *-1 to <head> double </head> to more than $ 22 million *U* from $ 10.8 million *U* . Amtech , which *T*-1 also provides technical temporary employment services to aerospace , defense , computer and high-tech companies in the Southwest and Baltimore-Washington areas , said 0 its final audited results are due in late November . The company attributed the improvement to strong demand in the semiconductor equipment segment as well as the acquisition of Echelon Service Co. and the inclusion of a full year 's results of operations for RTS Inc. , compared with seven months ' results for the prior year .
+</instance>
+
+<instance id="26:0@42@wsj/12/wsj_1206@wsj" corpus="wsj">
+<answer lemma="double" pos="v" on="1" wn="1" wn-version="2.1"/>
+But others say 0 junk-holders have nothing 0 * to gain *T*-1 by * putting SCI TV into bankruptcy-law proceedings . While KKR does n't control SCI TV which *T*-1 is unusual for a KKR investment -- it clearly has much deeper pockets than Mr. Gillett . Bankruptcy specialists say 0 Mr. Kravis set a precedent for * putting new money in sour LBOs recently when KKR restructured foundering Seaman Furniture , *-1 <head> doubling </head> KKR 's equity stake . But with Seaman , KKR was only trying *-1 to salvage its original investment , says 0 *T*-2 bankruptcy investor James Rubin of Sass Lamle Rubin in New York . By contrast , KKR probably has already made all the money 0 it can *?* *T*-1 on SCI TV .
+</instance>
+
+<instance id="10:0@15@wsj/12/wsj_1267@wsj" corpus="wsj">
+<answer lemma="double" pos="v" on="1" wn="1" wn-version="2.1"/>
+It advised the National Football League in its largely successful defense of antitrust charges by the United States Football League . And it helped win defense verdicts in product-liability suits involving scores of products , ranging from Firestone 500 tires to the anti-nausea drug Bendectin . Largely as a result , Litigation Sciences has more than <head> doubled </head> in size in the past two years . Its 1988 revenue was $ 25 million *U* . Meanwhile , competitors are being spawned *-1 almost daily ; some 300 new businesses -- many just one-person shops -- have sprung up .
+</instance>
+
+<instance id="15:0@41@wsj/12/wsj_1273@wsj" corpus="wsj">
+<answer lemma="double" pos="v" on="1" wn="1" wn-version="2.1"/>
+Still , there are several billion dollars of zero-coupon CDs with various maturities outstanding . Because of the tax consequences of zero-coupon investments -- income tax is payable in the year 0 interest is accrued *-1 *T*-2 , although interest is n't actually paid *-3 until maturity -- zero-coupon CDs are usually sold for tax-advantaged accounts *-4 to finance things like retirement and children 's education . Most zero-coupon CDs are in maturities of six to nine years , and they usually <head> double </head> in value by maturity . But investors who *T*-1 bought zero-coupon CDs in the secondary market are n't the only ones who *T*-2 may be surprised *-3 to learn 0 the full amount of their investments is n't insured *-4 . People who *T*-1 paid a premium for standard CDs purchased * on the secondary market could also find that those premiums are n't insured *-3 if the institutions that *T*-2 issued the CDs failed .
+</instance>
+
+<instance id="5:0@12@wsj/12/wsj_1274@wsj" corpus="wsj">
+<answer lemma="double" pos="v" on="1" wn="1" wn-version="2.1"/>
+While premium-brand spirits like Smirnoff vodka and Jack Daniel 's whiskey are riding high in the U.S. , domestic spirits consumption fell 15 % to 141.1 million cases in 1988 from 166 million cases in 1979 . In recent years , growth has come in the foreign markets . U.S. brandy exports more than <head> doubled </head> last year to 360,000 proof gallons , a standard industry measure , according to Jobson Beverage Alcohol Group , an industry association . Exports of rum surged 54 % to 814,000 proof gallons . Mexico is the biggest importer of both rum and brandy from the U.S. .
+</instance>
+
+<instance id="31:0@11@wsj/12/wsj_1284@wsj" corpus="wsj">
+<answer lemma="double" pos="v" on="1" wn="1" wn-version="2.1"/>
+Norms are consistently exceeded *-1 at 60 % of nitrogen oxide monitoring sites and 80 % of those for dust and soot emissions . Four-fifths of Poland 's soils have become highly acidified ; 70 % of its southern forests are projected *-1 to die by century 's end . Between 1965 and 1985 , Polish waters fit for human consumption dropped from 33 % to 6 % of all surface waters , while those unfit even for industry use nearly <head> doubled </head> . Poland produces about 20 times more soot and five times more sulfur dioxide and solid waste per unit of gross national product than does Western Europe *?* . Its mortality rate for males over 35 is about 50 % higher than West Germany 's , and 50 % higher in hazard areas than the national average .
+</instance>
+
+<instance id="22:0@23@wsj/11/wsj_1140@wsj" corpus="wsj">
+<answer lemma="double" pos="v" on="1" wn="1" wn-version="2.1"/>
+For example , an investor may seek *-1 to profit during some takeover situations by *-2 buying stock in one company involved and shorting the stock of the other . Two big stocks involved in takeover activity saw their short interest surge . Short interest in the American depositary receipts of Jaguar , the target of both Ford Motor and General Motors , more than <head> doubled </head> . Nasdaq stocks that *T*-1 showed a drop in short interest included Adobe Systems , Class A shares of Tele-Communications and takeover targets Lyphomed and Jerrico . The NASD , which *T*-1 operates the Nasdaq computer system on which 5,200 OTC issues trade *T*-4 , compiles short interest data in two categories : the approximately two-thirds , and generally biggest , Nasdaq stocks that *T*-2 trade on the National Market System ; and the one-third , and generally smaller , Nasdaq stocks that *T*-3 are n't a part of the system .
+</instance>
+
+<instance id="12:0@24@wsj/11/wsj_1160@wsj" corpus="wsj">
+<answer lemma="double" pos="v" on="1" wn="1" wn-version="2.1"/>
+The state could also increase gasoline taxes ; every one penny increase in the tax would yield $ 11 million *U* a month . But Gov. Deukmejian and others are reluctant *-1 to do anything 0 *T*-2 to harm the state 's chances of * sharply raising gasoline taxes on a permanent basis . * To raise more highway funds , a measure 0 *T*-1 to <head> double </head> the state 's nine-cent a gallon tax over five years is set *-2 to appear on the state 's June election ballot . But some fear 0 * imposing a temporary gasoline tax increase in the meantime could undercut support among voters for the measure . Not everyone is convinced 0 the state must raise new revenue *-1 to meet its earthquake needs .
+</instance>
+
+<instance id="27:0@130@wsj/10/wsj_1057@wsj" corpus="wsj">
+<answer lemma="double" pos="v" on="1" wn="1" wn-version="2.1"/>
+`` This is n't outlandish bidding ; this is a situation of very careful businessmen making judgments about the worth of product and acting on it ... . I would tend *-1 to trust their judgment . '' That 's easy 0 for him to say *T*-2 : CBS 's four-year NBA pact , now at $ 176 million *U* for four years , could <head> double </head> in price by the time 0 his talks with Mr. Pilson are completed *-1 *T*-3 later this month . That would cut into CBS 's slim margin for profit -- and error . CBS Sports earned $ 50 million or so *U* last year .
+</instance>
+
+<instance id="15:0@58@wsj/07/wsj_0725@wsj" corpus="wsj">
+<answer lemma="double" pos="v" on="1" wn="1" wn-version="2.1"/>
+A mile and a half away looms the 150-foot-tall rig of the Sniper , due * to be pumping by December . `` Talk is that everybody is going *-1 to drill more wells , '' says *T*-2 foreman Tommy Folsom . Santa Fe aims *-1 to drill about 30 wells in this area in 1989 and <head> double </head> that next year . It is more aggressive than most , but it is n't the only company with a new attitude , as it found when it went looking for a partner for the Sharpshooter *T*-1 . `` We went to six companies over two days *-1 pitching the prospect , '' says *T*-2 Tim Parker , a Santa Fe exploration manager .
+</instance>
+
+<instance id="11:0@2@wsj/14/wsj_1404@wsj" corpus="wsj">
+<answer lemma="double" pos="v" on="1" wn="1" wn-version="2.1"/>
+Groupe AG 's chairman said 0 the Belgian insurer is prepared *-1 to give up some of its independence to a white knight if * necessary * to repel a raider . Amid heavy buying of shares in Belgium 's largest insurer , Maurice Lippens also warned in an interview that a white knight , in *-1 buying out a raider , could leave speculators with big losses on their AG stock . Since the beginning of the year , the stock has nearly <head> doubled </head> , * giving AG a market value of about 105 billion Belgian francs -LRB- $ 2.7 billion *U* -RRB- . The most likely white knight would be Societe Generale de Belgique S.A. , which *T*-2 already owns 18 % of AG and which *T*-3 itself is controlled *-1 by Cie . Financiere de Suez , the acquisitive French financial conglomerate . But Mr. Lippens said 0 a rescue also could involve Asahi Mutual Life Insurance Co. , which *T*-1 owns 5 % of AG .
+</instance>
+
+<instance id="8:0@37@wsj/14/wsj_1432@wsj" corpus="wsj">
+<answer lemma="double" pos="v" on="1" wn="1" wn-version="2.1"/>
+We 'll coordinate on this end to places like Bangkok , Singapore and Manila . '' Asian traffic , which *T*-1 currently accounts for 65 % of Cathay 's business , is expected *-2 to continue as the carrier 's mainstay . Cathay has long stated its desire * to <head> double </head> its weekly flights into China to 14 , and it is applying *-1 to restart long-canceled flights into Vietnam . Further expansion into southern Europe is also possible , says 0 *T*-1 Mr. Bell , the spokesman . While a large number of Hong Kong companies have reincorporated offshore ahead of 1997 , such a move is n't an option for Cathay because it would jeopardize its landing rights in Hong Kong .
+</instance>
+
+<instance id="11:0@63@wsj/05/wsj_0515@wsj" corpus="wsj">
+<answer lemma="double" pos="v" on="1" wn="1" wn-version="2.1"/>
+Small crops are grown *-1 in Pakistan , France , Spain , Italy , Belgium and Brazil , but their quality ca n't compare to that of Indian psyllium . Big buyers like Procter & Gamble say 0 there are other spots on the globe , and in India , where the seed could be grown *-1 *T*-2 . `` It 's not a crop that *T*-1 ca n't be <head> doubled </head> or tripled *-2 , '' says *T*-3 Mr. Krishnamurthy . But no one has made a serious effort * to transplant the crop . In Sidhpur , it is almost time 0 * to sow this year 's crop *T*-1 .
+</instance>
+
+<instance id="11:0@58@wsj/00/wsj_0037@wsj" corpus="wsj">
+<answer lemma="double" pos="v" on="1" wn="1" wn-version="2.1"/>
+Once the disease was confirmed *-63 , all the man 's associates and family were tested *-64 , but none have so far been found *-1 to have AIDS , the newspaper said 0 *T*-2 . The man had for a long time had `` a chaotic sex life , '' including relations with foreign men , the newspaper said 0 *T*-1 . The Polish government increased home electricity charges by 150 % and <head> doubled </head> gas prices . The official news agency PAP said 0 the increases were intended *-1 to bring unrealistically low energy charges into line with production costs and compensate for a rise in coal prices . In happier news , South Korea , in *-1 establishing diplomatic ties with Poland yesterday , announced $ 450 million *U* in loans to the financially strapped Warsaw government .
+</instance>
+
+<instance id="46:0@44@wsj/24/wsj_2402@wsj" corpus="wsj">
+<answer lemma="double" pos="v" on="4" wn="4" wn-version="2.1"/>
+The first episode concluded with a marvelously cute scene in which the trading-room crew minded a baby , the casualty of a broken marriage at the firm *T*-2 . And many in the young cast bear striking resemblances to American TV and movie personalities known * for light roles . Joanna Kanska looks like a young Zsa Zsa Gabor ; William Armstrong , who *T*-1 plays Max , could pass for Hans Conreid , and Douglas Hodge -LRB- Declan -RRB- for James Farentino ; Rolf Saxon is a passable Tommy Noonan and Dorian Healy could easily <head> double </head> for Huntz Hall , the blank-faced foil of the Bowery Boys comedies . So , OK kids , everybody *?* on stage for `` * Carry On *-2 Trading '' : The cast is frantically searching the office for misplaced Japanese bonds that suddenly *T*-1 have soared in value because Dai-Ichi Kangyo Bank has just bought the White House . The pressure is too much for Zsa Zsa , who *T*-1 slaps a security guard .
+</instance>
+
+<instance id="22:0@47@wsj/23/wsj_2366@wsj" corpus="wsj">
+<answer lemma="double" pos="v" on="1" wn="1" wn-version="2.1"/>
+Thirty-five percent attend religious services regularly ; at the same time , 60 % feel that in life one sometimes has *-1 to compromise one 's principles . Odds and Ends THE NUMBER of women and minorities who *T*-1 hold jobs in top management in the nation 's largest banks has more than <head> doubled </head> since 1978 . The American Bankers Association says that women make up 47 % of officials and managers in the top 50 banks , up from 33 % in 1978 . The share of minorities in those positions has risen to 16 % from 12 % ... .
+</instance>
+
+<instance id="18:0@47@wsj/18/wsj_1825@wsj" corpus="wsj">
+<answer lemma="double" pos="v" on="1" wn="1" wn-version="2.1"/>
+Spiegel promises a `` Guaranteed Christmas , '' with a pledge * to deliver goods before Christmas if * ordered *-1 by Dec. 20 . And , for an extra $ 6 *U* , Land 's End will deliver orders within two days ; customers can designate the day . Spiegel , which *T*-1 also owns Eddie Bauer and Honeybee , says that since 1987 , sales have <head> doubled </head> during the week before Christmas . An L.L. Bean spokeswoman notes : `` People are just used to *-1 living in a last-minute society . '' Blunt Ellis , a Milwaukee brokerage firm , says 0 part of the reason 0 catalog sales grow in popularity *T*-3 is because consumers have more money but less time 0 * to spend it *T*-1 .
+</instance>
+
+<instance id="13:0@59@wsj/17/wsj_1760@wsj" corpus="wsj">
+<answer lemma="double" pos="v" on="4" wn="4" wn-version="2.1"/>
+`` Oh no . We need them and I thank God for them . '' Over at the Shell station , owner Rudi van Dyk , who *T*-1 <head> doubles </head> as Morgenzon 's mayor , worries that the Orange Workers have made his town the laughingstock of the nation . `` What they want us to do *T*-1 just is n't practical , '' he says *T*-2 , *-3 noting that he employs 16 blacks . `` I could n't afford *-1 to hire 16 whites .
+</instance>
+
+<instance id="51:0@14@wsj/16/wsj_1640@wsj" corpus="wsj">
+<answer lemma="double" pos="v" on="4" wn="4" wn-version="2.1"/>
+Already many foreign firms , especially banks , have their own cryptographers , conference speakers reported 0 *T*-1 . Still , * encrypting corporate communications is only a partial remedy . One expert , whose job *T*-1 is so politically sensitive that he spoke on condition that he would n't be named or quoted *-2 , said 0 the expected influx of East European refugees over the next few years will greatly increase the chances of computer-maintenance workers , for example , <head> doubling </head> as foreign spies . Moreover , he said *T*-2 , technology *ICH*-3 now exists for * stealing corporate secrets after they 've been `` erased *-1 '' from a computer 's memory . He said that Oliver North of Iran-Contra notoriety thought 0 he had erased his computer but that the information was later retrieved *-1 for congressional committees to read .
+</instance>
+
+</lexelt>
+
+<lexelt item=earn.v> 
+
+<instance id="18:0@18@wsj/15/wsj_1564@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="1" wn="1" wn-version="2.1"/>
+For instance , some investors have sworn off stocks since the 1987 market crash ; last Friday 's debacle only reinforced those feelings . But the stock market , despite some stomach-churning declines , has far outperformed other securities over extended periods . By *-1 retreating to the apparent security of , say , money-market funds , investors may not be <head> earning </head> enough investment return * to pay for a comfortable retirement . `` That 's the biggest risk of all -- the risk of * not meeting your objectives , '' says *T*-1 Steven B. Enright , a New York financial planner with Seidman Financial Services . As a result , financial advisers say 0 they take several steps when * evaluating the riskiness of clients ' portfolios *T*-1 .
+</instance>
+
+<instance id="18:0@43@wsj/15/wsj_1564@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="1" wn="1" wn-version="2.1"/>
+When it comes to investing *T*-3 , * trying *-4 to weigh risk and reward can seem like * throwing darts blindfolded : Investors do n't know the actual returns that securities will deliver *T*-2 , or the ups and downs that *T*-1 will occur along the way . * Looking to the past can provide some clues . Over several decades , for instance , investors who *T*-1 put up with the stock market 's gyrations <head> earned </head> returns far in excess of those on bonds and `` cash '' investments like Treasury bills . But while history can suggest what *T*-1 is reasonable 0 * to expect *T*-2 there 's no guarantee that the past will repeat itself . For instance , some analysts believe 0 bond returns and volatility have moved permanently closer to those of the stock market .
+</instance>
+
+<instance id="12:0@36@wsj/15/wsj_1570@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="1" wn="1" wn-version="2.1"/>
+The Tax Court recently denied business deductions by Mr. and Mrs. Peter S. Rubin of Cherry Hill , N.J. , who *T*-1 both were part-time distributors of Amway products in addition to their regular jobs as sales people in other fields . For 1984 , they reported gross income of $ 1,647 *U* from Amway sales , offset * by expenses totaling $ 16,746 *U* -- including car costs of $ 6,805 *U* and travel and entertainment costs of $ 5,088 *U* . The Tax Court did n't believe that the Rubins , who *T*-1 <head> earned </head> $ 65,619 *U* in their regular jobs , treated the sideline as a real business and derived `` merely incidental elements of recreation and other personal pleasure and benefits '' from it . The Direct Selling Association , a trade group , points out that its members , which *T*-1 include Amway Corp. , cooperate with the IRS *-2 to distribute tax-compliance material to sales people and are helping *-2 to prepare a public-service television program on the subject . The independent-contractor project , which *T*-1 began in 1988 , involves about 350 IRS agents .
+</instance>
+
+<instance id="13:0@61@wsj/15/wsj_1574@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="1" wn="1" wn-version="2.1"/>
+These are not certain , either . Companies `` are n't comfortable *-1 playing these games , but they realize 0 they 're under pressure * to make their policies look good , '' says 0 *T*-2 Timothy Pfiefer , an actuarial consultant at Tillinghast , a unit of Towers Perrin Co. , the big New York consulting firm . Another factor 0 * to consider *T*-1 : Some of the companies currently <head> earning </head> very high yields are doing so through substantial investment in junk bonds , and you know how nervous the market has been *T*-2 about those lately . There are seemingly endless twists to universal life , and it *EXP*-1 pays * to ask questions about all of them . At a back-yard barbecue , for example , a friend boasts that she 'll only have *-1 to pay premiums on her John Hancock policy for seven years and that her death benefits will then be `` guaranteed *-2 . ''
+</instance>
+
+<instance id="3:0@1@wsj/15/wsj_1585@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="1" wn="1" wn-version="2.1"/>
+As the sponsor of the `` Older Americans Freedom to Work Act , '' which *T*-1 would repeal the Social Security earnings limit for people aged * 65 and older , I applaud your strong endorsement 0 *T*-2 to repeal this Depression-era fossil . For every dollar <head> earned </head> * over $ 8,880 *U* , Social Security recipients lose 50 cents of their Social Security benefits ; it 's like a 50 % marginal tax . But the compounded effects of `` seniors only '' taxes result in truly catastrophic marginal tax rates . * Imagine a widow who *T*-1 wants *-3 to maintain her standard of living at the same level 0 she had *T*-2 before she had *-4 to pay the catastrophic surtax .
+</instance>
+
+<instance id="3:0@4@wsj/15/wsj_1585@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="1" wn="1" wn-version="2.1"/>
+But the compounded effects of `` seniors only '' taxes result in truly catastrophic marginal tax rates . * Imagine a widow who *T*-1 wants *-3 to maintain her standard of living at the same level 0 she had *T*-2 before she had *-4 to pay the catastrophic surtax . Although this widow <head> earns </head> only twice the minimum wage , largely due to the earnings limit , she would have *-1 to earn an additional $ 4,930 *U* *-2 to offset her catastrophic surtax of $ 496 *U* . * Eliminating the earnings limit would greatly help seniors and reduce the deficit . Repeal would generate more in new taxes than the government would lose *?* in increased Social Security benefit payments .
+</instance>
+
+<instance id="22:0@4@wsj/15/wsj_1585@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="1" wn="1" wn-version="2.1"/>
+But the compounded effects of `` seniors only '' taxes result in truly catastrophic marginal tax rates . * Imagine a widow who *T*-1 wants *-3 to maintain her standard of living at the same level 0 she had *T*-2 before she had *-4 to pay the catastrophic surtax . Although this widow earns only twice the minimum wage , largely due to the earnings limit , she would have *-1 to <head> earn </head> an additional $ 4,930 *U* *-2 to offset her catastrophic surtax of $ 496 *U* . * Eliminating the earnings limit would greatly help seniors and reduce the deficit . Repeal would generate more in new taxes than the government would lose *?* in increased Social Security benefit payments .
+</instance>
+
+<instance id="10:0@6@wsj/15/wsj_1593@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="1" wn="1" wn-version="2.1"/>
+As * mandated *-1 by law , the tax rate will rise to 7.65 % in 1990 from 7.51 % and wo n't rise any further in the future . This means that the maximum yearly Social Security tax paid * by workers and employers each will rise $ 250.80 *U* next year to $ 3,855.60 *U* . Beneficiaries aged 65 through 69 will be able *-1 to <head> earn </head> $ 9,360 *U* *ICH*-3 without *-2 losing any Social Security benefits in 1990 , up from $ 8,880 *U* this year . The exempt amount for beneficiaries under 65 will rise to $ 6,840 *U* from $ 6,480 *U* . The adjustments reflect the increase in the consumer price index for urban wage earners and clerical workers from the third quarter of last year to the third quarter of this year .
+</instance>
+
+<instance id="5:0@2@wsj/13/wsj_1362@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="1" wn="1" wn-version="2.1"/>
+Detrex Corp. said 0 a reserve 0 it is establishing *T*-1 *-2 to cover expected pollution cleanup costs at an Ohio plant reduced its third-quarter net income by $ 1.9 million *U* . Detrex , which *T*-1 has annual sales of about $ 100 million *U* , declined *-2 to say if it would post a loss in the third quarter . The Southfield , Mich.-based company <head> earned </head> $ 774,000 *U* in the quarter last year . Detrex is setting aside $ 3.1 million *U* for the cleanup , but said 0 the reserve reduced its quarterly income by only $ 1.9 million *U* because of tax considerations . In addition , the manufacturer said 0 it signed a consent decree with Ohio 0 * to build a $ 1.4 million *U* pollution-control facility at the Ashtabula chemical manufacturing plant by Aug. 1 , 1990 *T*-1 .
+</instance>
+
+<instance id="36:0@29@wsj/13/wsj_1368@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="1" wn="1" wn-version="2.1"/>
+But the current Soviet purchasing spree may be a one-time affair . The goal of most U.S. firms -- joint ventures -- remains elusive . Because the Soviet ruble is n't convertible into dollars , marks and other Western currencies , companies that *T*-1 hope *-2 to set up production facilities here must either export some of the goods *-3 to <head> earn </head> hard currency or find Soviet goods 0 they can take *T*-4 in a counter-trade transaction . International competition for the few Soviet goods that *T*-2 can be sold *-1 on world markets is heating up , however . Shelley M. Zeiger , an entrepreneur from New Jersey who *T*-1 buys Soviet porcelain and `` matryoshka '' nesting dolls for export to the U.S. , says 0 West German companies already have snapped up much of the production of these items .
+</instance>
+
+<instance id="14:0@19@wsj/13/wsj_1397@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="2" wn="" wn-version="2.1"/>
+-LRB- In last week 's rape case , for example , the girl turns out *-2 to have been a victim of incest , and the biggest villains are the politicians who *T*-1 exploit the case . -RRB- Most of all though , the show is redeemed *-1 by the character of Mancuso . What *T*-2 makes the veteran FBI man so endearing is his hard-bitten cynicism -- <head> earned </head> * , we discover , when he was assigned *-1 to the civil rights movement back in the 1960s *T*-3 . He was n't protecting the Freedom Marchers ; he was tailing them as subversives . This is not the `` Mississippi Burning '' scenario that *T*-1 thrills his young colleagues : `` Kid , you 've been reading Classic Comics too long , '' Mancuso says *T*-2 .
+</instance>
+
+<instance id="6:0@3@wsj/12/wsj_1214@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="1" wn="1" wn-version="2.1"/>
+It is payable Dec. 10 to stock of record Nov. 24 . The move was made *-1 because of the bank-holding company 's increased profitability , officials said 0 *T*-2 . In the third quarter , BSB <head> earned </head> $ 2 million *U* , up from $ 1.8 million *U* a year earlier . In national over-the-counter trading yesterday , BSB closed at $ 17.50 *U* , up 12.5 cents . BSB has 3.1 million shares outstanding .
+</instance>
+
+<instance id="8:0@21@wsj/12/wsj_1249@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="1" wn="1" wn-version="2.1"/>
+At Chemfix Technology Inc. , each supervisor 's recommendation must be approved *-1 by the next boss up the line , and then sanctioned *-1 by a salary review committee . JAPANESE COMPANIES fare best in U.S. when they give Americans more say *T*-1 . University of Michigan researchers find 0 the companies <head> earn </head> more and win a bigger market share when their American employees get a voice in planning , product development and design , including decision-making back in Japan . `` You ca n't hire competent Americans and say , ` * Let them run only their own show , ' '' says *T*-2 Vladimir Pucik , who *T*-1 headed the study run * with Egon Zehnder International , a search firm . The researchers say 0 many Japanese companies err in the U.S. by *-1 adopting the American practice of * hiring managers on the `` open market . ''
+</instance>
+
+<instance id="31:0@41@wsj/11/wsj_1121@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="2" wn="" wn-version="2.1"/>
+*-1 Laboring in blue and gray overalls , they are supposed *-1 to concentrate on * cleaning out crevices , and not strain their eyes *-2 looking for diamonds . But should they spy one , the company will pay a bonus equal to one-third its value . For these workers at the bottom of the mine 's pay scale , this is usually enough * to overcome the temptation * to steal -- a crime that *T*-1 could <head> earn </head> them up to 15 years in jail . Still , employees do occasionally try *-1 to smuggle out a gem or two . One man wrapped several diamonds in the knot of his tie .
+</instance>
+
+<instance id="23:0@36@wsj/11/wsj_1122@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="1" wn="1" wn-version="2.1"/>
+It held that Testa is taxable on $ 44,400 *U* of unreported income . WHY * BE A MIDDLEMAN for charitable gifts *T*-1 ? a retiree asks *T*-2 . A retired electrical engineer 0 we 'll call *T*-1 Ben works part-time as a consultant , but he does n't want *-2 to <head> earn </head> so much that Social Security reduces his benefits . So he has arranged for a university foundation to set up a scholarship fund for undergraduate engineering students . He plans *-1 to tell clients *-2 to pay certain fees directly to the foundation instead of to him ; he would omit those fees from income reported * on his return .
+</instance>
+
+<instance id="25:0@40@wsj/11/wsj_1122@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="1" wn="1" wn-version="2.1"/>
+He plans *-1 to tell clients *-2 to pay certain fees directly to the foundation instead of to him ; he would omit those fees from income reported * on his return . So he asked the IRS if the plan would work . Well , notes 0 *T*-2 IRS private ruling 8934014 , `` a fundamental principle '' is that income must be taxed *-1 to whoever *T*-3 <head> earns </head> it . The rule goes back at least as far as a 1930 Supreme Court decision , Robert Willens of Shearson Lehman Hutton says 0 *T*-1 . If you assign your income to another , you still have controlled its disposition and enjoyed the fruits of your labor , even if indirectly .
+</instance>
+
+<instance id="1:0@43@wsj/11/wsj_1122@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="1" wn="1" wn-version="2.1"/>
+The rule goes back at least as far as a 1930 Supreme Court decision , Robert Willens of Shearson Lehman Hutton says 0 *T*-1 . If you assign your income to another , you still have controlled its disposition and enjoyed the fruits of your labor , even if indirectly . Ben <head> earns </head> any fees sent * directly to charity and is taxable on them , the IRS says 0 *T*-1 ; of course , he also may take a charitable deduction for them . BRIEFS : Ways and Means veteran Gephardt -LRB- D. , Mo . -RRB- moves to the House Budget Committee ; Rep. Cardin -LRB- D. , Md . -RRB- replaces him ... .
+</instance>
+
+<instance id="12:0@27@wsj/11/wsj_1131@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="1" wn="1" wn-version="2.1"/>
+Credit policy should separate these two competing objectives and eliminate aspects that *T*-1 provide the subsidy . For example , student loans currently attempt *-1 to subsidize college attendance and mitigate problems created * by the fact that students ' future earnings are not accepted *-2 as collateral . The program provides highly subsidized loans to any student whose family *T*-1 <head> earns </head> less than a particular amount . High default rates , a low interest rate , and government coverage of all interest costs while the student is in school make program costs extremely high . Families that *T*-1 do not need the loan can make money simply by *-2 putting the loan in the bank and paying it back when the student graduates *T*-3 .
+</instance>
+
+<instance id="26:0@11@wsj/11/wsj_1148@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="1" wn="1" wn-version="2.1"/>
+Most oil companies , including Mobil , have been reporting lower third-quarter earnings , largely as a result of lower earnings from chemicals as well as refining and marketing businesses . Individuals familiar with Mobil 's strategy say that Mobil is reducing its U.S. work force because of declining U.S. output . Yesterday , Mobil said 0 domestic exploration and production operations had a $ 16 million *U* loss in the third quarter , while comparable foreign operations <head> earned </head> $ 234 million *U* . Industrywide , oil production in this country fell by 500,000 barrels a day to 7.7 million barrels in the first eight months of this year . Daily output is expected *-1 to decline by at least another 500,000 barrels next year .
+</instance>
+
+<instance id="2:0@4@wsj/11/wsj_1194@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="1" wn="1" wn-version="2.1"/>
+IBM can raise its stake in Paxus to 20 % over three years , but agreed *-1 to not go beyond 20 % in that time . Paxus said in a statement 0 it has several `` well developed product and services relationships '' with the U.S. computer company , and plans *-1 to expand these links . The company <head> earns </head> about half its revenue overseas and plans further expansion . A majority stake in Paxus currently held * by NZI Corp. will be diluted *-1 to slightly less than 50 % after IBM acquires its interest . The agreement requires approval from Australia 's Foreign Investment Review Board and National Companies and Securities Commission , and from shareholders of Paxus .
+</instance>
+
+<instance id="20:0@32@wsj/10/wsj_1055@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="1" wn="1" wn-version="2.1"/>
+The 1988 results included a one-time gain . Cimflex Teknowledge rose 13\/16 , or 39 % , to 2 7\/8 on volume of 494,100 shares . The maker of software products and services , which *T*-1 had a net loss in the 1988 third quarter , <head> earned </head> 200,000 , or a penny a share , in this year 's quarter . It was Nasdaq 's biggest percentage gainer . Star States plunged 3 1\/4 to 8 3\/4 on 207,000 shares .
+</instance>
+
+<instance id="12:0@37@wsj/10/wsj_1055@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="1" wn="1" wn-version="2.1"/>
+The company suffered a $ 9 million *U* loss in the third quarter , compared with net of $ 2.5 million *U* a year earlier . Collagen dropped 2 5\/8 to 15 5\/8 on 428,000 shares . In its fiscal-first quarter ended * Sept. 30 , the biomedical-products maker <head> earned </head> 10 cents a share , up from eight cents a share in the 1988 quarter , which *T*-1 included an extraordinary credit . Occupational-Urgent Care Health fell 1 3\/4 to 15 1\/2 on 354,000 shares . The company 's third-quarter earnings also rose to 10 cents a share from eight cents a share a year ago .
+</instance>
+
+<instance id="2:0@132@wsj/10/wsj_1057@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="1" wn="1" wn-version="2.1"/>
+That 's easy 0 for him to say *T*-2 : CBS 's four-year NBA pact , now at $ 176 million *U* for four years , could double in price by the time 0 his talks with Mr. Pilson are completed *-1 *T*-3 later this month . That would cut into CBS 's slim margin for profit -- and error . CBS Sports <head> earned </head> $ 50 million or so *U* last year . And CBS takes in the least money in prime time ; ABC and NBC charge 30 % to 35 % *U* more for ads , according to a Variety survey . But CBS 's costs are huge , and the risks go up with each new sports package that CBS locks up *T*-1 .
+</instance>
+
+<instance id="14:0@139@wsj/10/wsj_1057@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="1" wn="1" wn-version="2.1"/>
+But the savings will be minuscule . Each hour of Olympics and baseball in prime time will cost CBS $ 2.6 million to $ 2.8 million *U* ; an hour-long drama costs only $ 900,000 *U* , and it is aired *-1 twice . CBS may cushion losses with about $ 200 million *U* a year in interest <head> earned </head> * on the proceeds from * selling CBS Records and other businesses . But media-stock analyst Richard J. MacDonald of MacDonald Grippo Riely says 0 Wall Street wo n't take kindly to that . `` On a stand-alone basis , the network ought *-1 to make money , '' he says *T*-2 .
+</instance>
+
+<instance id="24:0@4@wsj/09/wsj_0909@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="1" wn="1" wn-version="2.1"/>
+He is negotiating a rich book contract to boot . One of the hottest tickets on Washington 's social calendar this fall was a charity benefit honoring former Congressman Tony Coelho , who *T*-1 landed a million-dollar job on Wall Street after *-2 resigning over a controversial junk-bond investment last summer . Michael Deaver , the former White House aide , has become the most recent addition to the teeming ranks of fallen politicians and officials <head> earning </head> their way as lobbyists and consultants here . Mr. Deaver has reopened a public-relations business . * Surviving scandal has become a rite of political passage at a time when a glut of scandal has blunted this town 's sensibility *T*-1 .
+</instance>
+
+<instance id="4:0@11@wsj/14/wsj_1432@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="1" wn="1" wn-version="2.1"/>
+These factors are further complicated *-1 by the airline 's push * to transform itself from a regional carrier to an international one , Ms. Hall says 0 *T*-2 . Ms. Hall expects Cathay 's profit to grow around 13 % annually this year and next . In 1988 , it <head> earned </head> $ 2.82 billion *U* Hong Kong -LRB- US$ 361.5 million *U* -RRB- on revenue of HK$ 11.79 billion *U* . Cathay is taking several steps *-1 to bolster business . One step is * to beef up its fleet .
+</instance>
+
+<instance id="1:0@30@wsj/14/wsj_1455@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="2" wn="" wn-version="2.1"/>
+Mr. McDonough responds : `` I 'm asking people *-1 to broaden their agendas . '' The son of a Seagram 's executive who *T*-2 was stationed *-1 in many countries around the world , Mr. McDonough was born in Tokyo and attended 19 schools in places ranging from Hong Kong to Shaker Heights , Ohio , before *-3 entering Dartmouth College . He <head> earned </head> a master 's degree in architecture from Yale . His interest in the natural environment dates from his youth . He and his father still spend time each summer *-1 fly-fishing for salmon in Iceland .
+</instance>
+
+<instance id="17:0@44@wsj/14/wsj_1470@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="1" wn="1" wn-version="2.1"/>
+IT *EXP*-2 PAYS *-1 to follow a management career path -- even at law firms . That 's the conclusion of a recent study of large law firms conducted * by Altman & Weil Inc. , an Ardmore , Pa. , law firm consultant . Its survey of 96 firms , each with 100 to 1,000 lawyers , shows that managing partners <head> earned </head> an average of $ 395,974 *U* in compensation and cash benefits in the firms ' 1988 fiscal years . Managing partners who *T*-1 responded to the survey typically spend over half their time *-4 supervising their firms ' day-to-day operations and just a little more than a third of their time *-4 practicing law . Partners in the survey who *T*-1 devote most of their time to *-2 practicing law earned an average of about $ 217,000 *U* .
+</instance>
+
+<instance id="15:0@46@wsj/14/wsj_1470@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="1" wn="1" wn-version="2.1"/>
+Its survey of 96 firms , each with 100 to 1,000 lawyers , shows that managing partners earned an average of $ 395,974 *U* in compensation and cash benefits in the firms ' 1988 fiscal years . Managing partners who *T*-1 responded to the survey typically spend over half their time *-4 supervising their firms ' day-to-day operations and just a little more than a third of their time *-4 practicing law . Partners in the survey who *T*-1 devote most of their time to *-2 practicing law <head> earned </head> an average of about $ 217,000 *U* .
+</instance>
+
+<instance id="7:0@18@wsj/14/wsj_1495@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="2" wn="" wn-version="2.1"/>
+NASA defended itself vigorously and successfully against a Rifkin suit 0 *T*-1 to block the Galileo launch . Scientists need *-1 to understand that while they tend *-2 to believe 0 their work is primarly about * establishing new knowledge or doing good , today it is also about power . In a media-linked world , scientists may <head> earn </head> wide praise and even Nobels for their work , but they also attract the attention of people who *T*-1 wish *-2 to gain control over the content , funding and goals of that work . When a David Baltimore -- or the next target -- decides 0 it *EXP*-3 is better * to stand up to these forces *T*-2 , his fellow scientists would do well *-4 to recognize what *T*-1 is fundamentally at stake , and offer their public support .
+</instance>
+
+<instance id="29:0@41@wsj/24/wsj_2412@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="2" wn="" wn-version="2.1"/>
+It involves * accepting risk , or * giving up income , or * deferring a career . It follows that proposals like Nunn-McCurdy , whose benefits to enrollees *T*-1 are worth some $ 17,500 *U* a year , do not qualify . There is a rationale for such bills : Federal subsidies to college students amount to `` a GI Bill without the GI '' ; arguably those benefits should be <head> earned </head> *-1 , not given *-1 . But the earnings exceed by 20 % the average income of young high-school graduates with full-time jobs . Why * call that service ?
+</instance>
+
+<instance id="21:0@6@wsj/23/wsj_2394@wsj" corpus="wsj">
+<answer lemma="earn" pos="v" on="1" wn="1" wn-version="2.1"/>
+A spokesman for Avis would n't specify the costs but said 0 the three airlines being dropped * account for `` far less than half '' of the total . Budget Rent a Car Corp. , of Chicago , and National Car Rental Systems Inc. , of Minneapolis , both said 0 they had no plans * to follow suit . In fact , Budget indicated 0 it saw some benefit to *-1 staying involved in these programs , in which renters <head> earn </head> frequent-flier miles *T*-2 and fliers can get car-rental discounts *T*-2 . `` I can not see how this news by Hertz and Avis can not benefit Budget 's programs , '' said *T*-1 Bob Wilson , Budget 's vice president , marketing planning . Northwest and Midway are two of the five airlines with which Budget has agreements *T*-1 .
+</instance>
+
+</lexelt>
+
+<lexelt item=rank.v> 
+
+<instance id="2:0@19@wsj/13/wsj_1368@wsj" corpus="wsj">
+<answer lemma="rank" pos="v" on="1" wn="1,2,3" wn-version="2.1"/>
+For political as well as economic reasons , U.S. companies are at the top of his priorities -- a point 0 he underscored *T*-1 by *-2 spending two hours *-3 walking around the U.S. trade show last week . *-2 Talking to a small group of U.S. executives afterwards , Mr. Gorbachev appeared impatient for a big expansion in U.S.-Soviet trade , which *T*-1 now amounts to a meager $ 3 billion *U* annually . The U.S. <head> ranks </head> fourth of countries that *T*-1 have concluded joint ventures , behind West Germany , Finland and Italy . According to several people present at the meeting , Mr. Gorbachev also supported the idea of * concluding several commercial accords with the U.S. , possibly at his next summit meeting with President Bush . * Judging by the crush at the exhibition , deprived Soviet consumers are more than ready for U.S. products .
+</instance>
+
+<instance id="12:0@32@wsj/08/wsj_0804@wsj" corpus="wsj">
+<answer lemma="rank" pos="v" on="1" wn="1,2,3" wn-version="2.1"/>
+These days , `` Batibot '' is produced *-1 in a converted lumberyard on a shoestring budget of $ 3,000 *U* a one-hour segment . It is shown *-1 weekdays on two of the country 's five networks . With an audience totaling more than 400,000 , `` Batibot '' consistently <head> ranks </head> in the country 's top-four most-watched daytime programs . But advertising revenue is inadequate . Periodically , there are threats that the program will fold .
+</instance>
+
+<instance id="13:0@0@wsj/14/wsj_1424@wsj" corpus="wsj">
+<answer lemma="rank" pos="v" on="1" wn="1,2,3" wn-version="2.1"/>
+In terms of sheer brutality , the Somali regime of Siad Barre may <head> rank </head> as No. 1 in the world . The only reason that Somalia remains in obscurity is numbers : a sparsely populated wasteland of 8.5 million people spread * out over an expanse nearly the size of Texas . The Barre dictatorship simply is limited in the amount of people 0 it can torture and kill *T*-1 .
+</instance>
+
+<instance id="10:0@21@wsj/14/wsj_1493@wsj" corpus="wsj">
+<answer lemma="rank" pos="v" on="1" wn="1,2,3" wn-version="2.1"/>
+-LRB- While there would be some client conflicts , they would n't be nearly as onerous as with Saatchi 's other agencies . -RRB- Campbell-Mithun also would be a sizable addition to an agency network : It has billings of about $ 850 million *U* and blue-chip clients including General Mills , Jeep\/Eagle and Dow Brands . Rowland , meanwhile , has expanded aggressively , and now <head> ranks </head> as the fifth-largest U.S. public relations firm , according to O'Dwyer's Directory of Public Relations Firms . It would be attractive to an agency such as Interpublic , one of the few big agency groups without an affiliated public relations firm of its own . Other Saatchi units include ad agency McCaffrey & McCall , which *T*-1 has the Mercedes account and which *T*-2 has been attempting *-3 to buy itself back ; and Howard Marlboro , a sports and event marketing firm .
+</instance>
+
+<instance id="11:0@4@wsj/24/wsj_2436@wsj" corpus="wsj">
+<answer lemma="rank" pos="v" on="1" wn="1,2,3" wn-version="2.1"/>
+`` Frankly , I missed my family , '' said *T*-1 Mr. Rosenblatt . In Mr. Rosenblatt 's tenure , the magazine 's advertising pages and circulation have grown significantly . But at 2.3 million weekly paid circulation , U.S. News still <head> ranks </head> *-2 third *T*-1 behind Time Warner Inc. 's Time magazine , with 4.4 million circulation , and Washington Post Co. 's Newsweek , with 3.3 million circulation . Mortimer B. Zuckerman , chairman and editor in chief , said 0 Mr. Rosenblatt would be succeeded starting today by Michael Ruby , the magazine 's executive editor , and Merrill McLoughlin , a senior writer . Mr. Ruby and Ms. McLoughlin are married *-1 to each other .
+</instance>
+
+<instance id="1:0@12@wsj/23/wsj_2363@wsj" corpus="wsj">
+<answer lemma="rank" pos="v" on="1" wn="1,2,3" wn-version="2.1"/>
+Nearly all of the crude oil that Canada exports *T*-3 to the U.S. is transported *-1 on Interprovincial 's system , whose main line *T*-2 runs from Edmonton to major U.S. and Canadian cities in the Great Lakes region , including Chicago , Buffalo , Toronto and Montreal . Canada 's current oil exports to the U.S. total about 600,000 barrels a day , or about 9.1 % of net U.S. crude imports , said 0 *T*-1 John Lichtblau , president of the New York-based Petroleum Industry Research Foundation . That <head> ranks </head> Canada as the fourth-largest source of imported crude , behind Saudi Arabia , Nigeria and Mexico . Mr. Lichtblau said 0 Canada 's declining crude output , combined with the fast-shrinking output of U.S. crude , will help *-1 intensify U.S. reliance on oil from overseas , particularly the Middle East . `` It 's very much a growing concern .
+</instance>
+
+</lexelt>

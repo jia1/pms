@@ -1,0 +1,26 @@
+
+There are a few changes to the conll-2005 format.  There is a id
+column and arguments of only one predicate are mentined per space
+separated list of examples.
+
+
+The columns represent the following:
+
+column  1: Example ID
+column  2: Word
+column  3: Verbnet class
+column  4: PropBank Frame sense
+column  5: Part of Speech
+column  6: Parse fragment (as represented in the standard conll format)
+column  7: The predicate
+column  8: PropBank argument
+column  9: Thematic Role
+
+
+The last two columns in the test file should be replaced with the
+hypothesized argument.
+
+in order to score the test, all you need to do is print out the 
+two columns -- The predicate and the argument column and use the
+CoNLL-2005 scorer srl-eval.pl available at http://www.lsi.upc.edu/~srlconll/soft.html
+

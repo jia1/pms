@@ -1,0 +1,6 @@
+for scoring purposes, we will be using the senseval 3 scorer2
+software. you can use the same scorer to tune your systems, and the
+format of the answers should adhere to its requirement,
+
+information on the scorer software is available at:
+http://www.cse.unt.edu/~rada/senseval/senseval3/scoring/
