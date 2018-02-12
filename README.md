@@ -11,3 +11,10 @@ python3 -m venv .
 . bin/activate
 pip3 install -r requirements.txt
 ```
+
+Additional commands to run jupyter notebook in virtual environment:
+
+```bash
+ipython kernel install --user --name=pms
+jupyter notebook
+```

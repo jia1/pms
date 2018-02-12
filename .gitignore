@@ -1,6 +1,13 @@
-.DS_STORE
+.DS_Store
 bin/
 include/
 lib/
 pip-selfcheck.json
 pyvenv.cfg
+
+data/.DS_Store
+data/GoogleNews-vectors-negative300.bin
+
+.ipynb_checkpoints/
+etc/
+share/
