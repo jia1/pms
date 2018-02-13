@@ -1,15 +1,21 @@
 from gensim.models import KeyedVectors
+
+w2v_model = KeyedVectors.load_word2vec_format('data/GoogleNews-vectors-negative300.bin', binary=True)
+
+
+
+
 from lxml import etree
-import nltk
-
-from nltk.tokenize import sent_tokenize, word_tokenize
-
-window = 5
 
 file = 'data/semeval2007/train/lexical-sample/english-lexical-sample.train.xml'
 root = etree.parse(file)
 
-w2v_model = KeyedVectors.load_word2vec_format('data/GoogleNews-vectors-negative300.bin', binary=True)
+
+
+
+from nltk.tokenize import sent_tokenize, word_tokenize
+
+window = 5
 
 for lexelt in root.findall('lexelt'):
     lexelt_item = lexelt.attrib['item'].split('.')[0]
