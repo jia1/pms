@@ -15,7 +15,7 @@ root = etree.parse(file)
 
 from nltk.tokenize import sent_tokenize, word_tokenize
 
-window = 5
+window_size = 5
 
 for lexelt in root.findall('lexelt'):
     lexelt_item = lexelt.attrib['item'].split('.')[0]
@@ -37,14 +37,21 @@ for lexelt in root.findall('lexelt'):
         if sentence_index == -1 or word_index == -1:
             continue
         sentence = words[sentence_index]
-        left_bound = max(0, word_index - window)
-        right_bound = min(word_index + window, len(sentence))
+        left_bound = max(0, word_index - window_size)
+        right_bound = min(word_index + window_size, len(sentence))
+        left_pad = 0
         w2v_vectors = []
         for w_index in range(left_bound, right_bound):
             word = sentence[w_index]
+            print(word)
             if word in w2v_model:
                 vector = w2v_model[word]
                 w2v_vectors.append(vector)
-        print(len(w2v_vectors))
+            else:
+                if w_index < left_bound + window_size:
+                    left_pad += 1
+        right_pad = 2 * window_size + 1 - left_pad - len(w2v_vectors)
+        input_vectors = [None for i in range(left_pad)] + w2v_vectors + [None for i in range(right_pad)]
+        print(input_vectors)
         break
     break
