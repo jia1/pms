@@ -5,6 +5,8 @@ lib/
 pip-selfcheck.json
 pyvenv.cfg
 
+Scripts/
+
 data/.DS_Store
 data/GoogleNews-vectors-negative300.bin
 
