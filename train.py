@@ -29,9 +29,11 @@ from keras.layers import LSTM, Dropout, Dense
 input_length = phrase
 input_shape = (phrase, w2v_dim)
 
+'''
 embedding_layer = Embedding(w2v_vocab,
                             w2v_dim,
                             input_length=input_length)
+'''
 dense_layer = Dense(1,
                     activation='softmax',
                     input_shape=input_shape)
