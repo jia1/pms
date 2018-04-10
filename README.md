@@ -11,6 +11,7 @@ cd pms
 python3 -m venv .
 . bin/activate # If Windows, do: Scripts\activate.bat
 pip3 install -r requirements.txt
+python3 download.py
 ```
 
 Additional commands to run jupyter notebook in virtual environment:
