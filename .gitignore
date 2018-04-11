@@ -14,4 +14,4 @@ data/GoogleNews-vectors-negative300.bin
 etc/
 share/
 
-models/
+# models/
