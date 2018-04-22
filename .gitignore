@@ -13,5 +13,3 @@ data/GoogleNews-vectors-negative300.bin
 .ipynb_checkpoints/
 etc/
 share/
-
-# models/
