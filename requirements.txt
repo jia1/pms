@@ -45,7 +45,7 @@ parso==0.1.1
 pickleshare==0.7.4
 prompt-toolkit==1.0.15
 protobuf==3.5.2.post1
-Pygments==2.2.0
+Pygments==2.7.4
 python-dateutil==2.6.1
 pywinpty==0.5.1
 PyYAML==3.12
